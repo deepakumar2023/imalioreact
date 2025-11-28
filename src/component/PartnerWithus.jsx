@@ -5,13 +5,13 @@ import "swiper/css/autoplay";
 
 export default function PartnerWithUs() {
   const logos = [
-    { src: "/partnerlogo/yubai.webp", name: "Company One", alt: "yubai" },
-    { src: "/partnerlogo/target.png", name: "Company Two", alt: "yubai" },
-    { src: "/partnerlogo/aayanaa.jpg", name: "Company Three", alt: "yubai" },
-    { src: "/partnerlogo/Just-Office-Logo.png", name: "Company Four", alt: "yubai" },
-    { src: "/partnerlogo/unt-mart.png", name: "Company Five", alt: "yubai" },
-    { src: "/partnerlogo/universal.webp", name: "Company Six", alt: "yubai" },
-    { src: "/partnerlogo/aftaab.png", name: "Company Seven", alt: "yubai" },
+    { src: "/partnerlogo/yubai.webp", name: "Yubai.ai", alt: "yubai" },
+    { src: "/partnerlogo/target.png", name: "Target", alt: "yubai" },
+    { src: "/partnerlogo/aayanaa.jpg", name: "Aayna", alt: "yubai" },
+    { src: "/partnerlogo/Just-Office-Logo.png", name: "Just-Office", alt: "yubai" },
+    { src: "/partnerlogo/unt-mart.png", name: "Unt Mart", alt: "yubai" },
+    { src: "/partnerlogo/universal.webp", name: "Universal", alt: "yubai" },
+    { src: "/partnerlogo/aftaab.png", name: "Aftaab", alt: "yubai" },
   ];
 
   return (

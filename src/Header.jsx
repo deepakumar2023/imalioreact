@@ -22,7 +22,7 @@ export default function Header() {
           <img
             src="/Logo/Teprezlogo.jpg"
             alt="Logo"
-            className="h-10 w-[120px] sm:h-12 sm:w-[160px] md:h-14 md:w-[200px] lg:h-16 lg:w-[220px] xl:h-18 xl:w-[240px] object-contain"
+            className="h-10 w-[120px] sm:h-12 sm:w-[160px] md:h-14 md:w-[100px] lg:h-16 lg:w-[220px] xl:h-18 xl:w-[200px] object-contain"
           />
         </Link>
 
